@@ -15,7 +15,9 @@ git remote add origin https://github.com/eletronorte/eletronorte.github.io.git
 # Uso do branch
 
 git checkout main
+
 git checkout -b "tarefa12345"
+
 git push --set-upstream origin tarefa
 
 git fech -a  
